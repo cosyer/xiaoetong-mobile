@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网/首页_Phone" transform="translate(-523.000000, -1319.000000)">
+            <g id="功能简介" transform="translate(0.000000, 900.000000)">
+                <g id="Group-10-Copy-3" transform="translate(375.000000, 419.000000)">
+                    <g id="Group-9" transform="translate(148.000000, 0.000000)">
+                        <circle id="Oval-2" fill="#2A75ED" opacity="0.05" cx="40" cy="40" r="40"></circle>
+                        <g id="营销推广" transform="translate(15.000000, 16.000000)">
+                            <rect id="Rectangle-7" x="0" y="0" width="50" height="50"></rect>
+                            <g id="Group-2-Copy" stroke-width="1" fill-rule="evenodd" transform="translate(24.611893, 23.570226) rotate(45.000000) translate(-24.611893, -23.570226) translate(12.111893, 2.736893)" stroke="#2A75ED">
+                                <path d="M-2.59348099e-13,8.25562949 C-2.59348099e-13,7.14795091 0.782965031,5.8265495 1.76676624,5.2944809 L10.7497641,0.436211648 C11.7255222,-0.0915069804 13.2974273,-0.0958569558 14.2786299,0.436211648 L23.2379004,5.2944809 C24.2110812,5.82219953 25,7.14318634 25,8.25562949 L25,39.6610372 C25,40.7687158 24.1102368,41.6666667 22.9964051,41.6666667 L2.00359486,41.6666667 C0.897039974,41.6666667 -2.59348099e-13,40.7734803 -2.59348099e-13,39.6610372 L-2.59348099e-13,8.25562949 Z" id="Rectangle-18" stroke-width="2" fill="#E6F0FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <circle id="Oval" fill="#CFDFF9" cx="12.5" cy="7.29166667" r="2.08333333"></circle>
+                            </g>
+                            <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(30.616984, 23.250529) rotate(30.000000) translate(-30.616984, -23.250529) translate(18.116984, 2.417196)" stroke="#2A75ED">
+                                <path d="M-7.10542736e-13,8.25562949 C-7.10542736e-13,7.14795091 0.782965031,5.8265495 1.76676624,5.2944809 L10.7497641,0.436211648 C11.7255222,-0.0915069804 13.2974273,-0.0958569558 14.2786299,0.436211648 L23.2379004,5.2944809 C24.2110812,5.82219953 25,7.14318634 25,8.25562949 L25,39.6610372 C25,40.7687158 24.1102368,41.6666667 22.9964051,41.6666667 L2.00359486,41.6666667 C0.897039974,41.6666667 -7.10542736e-13,40.7734803 -7.10542736e-13,39.6610372 L-7.10542736e-13,8.25562949 Z" id="Rectangle-18" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <path d="M25.0001611,25.1495665 L25,39.5747044 C25,40.7300633 24.0655977,41.6666667 22.911514,41.6666667 L2.08848603,41.6666667 C0.935047046,41.6666667 -1.19300125e-11,40.7375613 -1.19300125e-11,39.5834162" id="Rectangle-18" stroke-width="2" fill="#E6F0FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <circle id="Oval" fill="#CFDFF9" cx="12.5" cy="7.29166667" r="2.08333333"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

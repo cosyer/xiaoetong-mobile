@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="2.08333333" width="50" height="37.5" rx="4"></rect>
+        <rect id="path-2" x="7.29166667" y="20.8333333" width="8.33333333" height="10.4166667" rx="2"></rect>
+        <rect id="path-3" x="20.8333333" y="16.6666667" width="8.33333333" height="14.5833333" rx="2"></rect>
+        <rect id="path-4" x="34.375" y="10.4166667" width="8.33333333" height="20.8333333" rx="2"></rect>
+        <rect id="path-5" x="8.33333333" y="45.8333333" width="33.3333333" height="2.08333333" rx="1.04166667"></rect>
+        <rect id="path-6" x="19.7916667" y="37.5" width="10.4166667" height="10.4166667"></rect>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网/首页_Phone" transform="translate(-148.000000, -1559.000000)">
+            <g id="功能简介" transform="translate(0.000000, 900.000000)">
+                <g id="Group-10-Copy-4" transform="translate(0.000000, 659.000000)">
+                    <g id="Group-7" transform="translate(148.000000, 0.000000)">
+                        <circle id="Oval-2" fill="#2A75ED" opacity="0.05" cx="40" cy="40" r="40"></circle>
+                        <g id="数据分析" transform="translate(15.000000, 16.000000)">
+                            <rect id="Rectangle-7" x="0" y="0" width="50" height="50"></rect>
+                            <g id="Rectangle-6">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#2A75ED" stroke-width="2" x="1" y="3.08333333" width="48" height="35.5" rx="4"></rect>
+                            </g>
+                            <g id="Rectangle">
+                                <use fill="#E6F0FF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <rect stroke="#2A75ED" stroke-width="1" x="7.79166667" y="21.3333333" width="7.33333333" height="9.41666667" rx="2"></rect>
+                            </g>
+                            <g id="Rectangle-Copy">
+                                <use fill="#E6F0FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <rect stroke="#2A75ED" stroke-width="1" x="21.3333333" y="17.1666667" width="7.33333333" height="13.5833333" rx="2"></rect>
+                            </g>
+                            <g id="Rectangle-Copy-2">
+                                <use fill="#E6F0FF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                <rect stroke="#2A75ED" stroke-width="1" x="34.875" y="10.9166667" width="7.33333333" height="19.8333333" rx="2"></rect>
+                            </g>
+                            <g id="Rectangle-16-Copy">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <rect stroke="#2A75ED" stroke-width="2" x="9.33333333" y="46.8333333" width="31.3333333" height="1" rx="0.5"></rect>
+                            </g>
+                            <g id="Rectangle-16-Copy-2">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                <rect stroke="#2A75ED" stroke-width="2" x="20.7916667" y="38.5" width="8.41666667" height="8.41666667"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M38.8092041,21.2867737 L40.650608,21.6175093 C41.7870583,21.7597175 42.7083333,22.8021442 42.7083333,23.9584439 L42.7083333,37.4998894 C42.7083333,38.6505437 41.7863158,39.4678768 40.6413661,39.3245043 L35.0028992,38.1790161 L25.0279744,39.5833333 L16.1994934,36.5407308 L10.194171,38.658615 C9.16645875,39.1693228 8.33333333,38.6561892 8.33333333,37.4998894 L8.33333333,23.9584439 C8.33333333,22.8077896 9.24236693,21.6480809 10.3536174,21.3706831 L12.9599253,20.8333333" id="path-1"></path>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="官网/首页_Phone" transform="translate(-148.000000, -1319.000000)">
+            <g id="功能简介" transform="translate(0.000000, 900.000000)">
+                <g id="Group-10-Copy-2" transform="translate(0.000000, 419.000000)">
+                    <g id="Group-11" transform="translate(148.000000, 0.000000)">
+                        <circle id="Oval-2" fill="#2A75ED" opacity="0.05" cx="40" cy="40" r="40"></circle>
+                        <g id="线下互动" transform="translate(15.000000, 16.000000)">
+                            <rect id="Rectangle-7" x="0" y="0" width="50" height="50"></rect>
+                            <rect id="Rectangle-19" stroke="#2A75ED" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" x="3.125" y="4.16666667" width="43.75" height="42.7083333" rx="6"></rect>
+                            <g id="Rectangle">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <path stroke="#2A75ED" stroke-width="1" d="M38.760311,21.7859929 L13.0065479,21.3342281 L10.4747148,21.8557969 C9.58449234,22.0780203 8.83333333,23.0389763 8.83333333,23.9584439 L8.83333333,37.4998894 C8.83333333,38.2832526 9.27473369,38.5571834 10.0278756,38.1870794 L16.1975971,36.0112169 L25.0772712,39.0714623 L34.9331942,37.6838987 L35.1024437,37.6890254 L40.7034918,38.8283789 C41.548636,38.9342093 42.2083333,38.3511062 42.2083333,37.4998894 L42.2083333,23.9584439 C42.2083333,23.055968 41.4764583,22.2247504 40.5622171,22.1096343 L38.760311,21.7859929 Z"></path>
+                            </g>
+                            <path d="M25,33.6893717 C26.3885498,33.6893717 33.3333333,22.3107062 33.3333333,17.7083333 C33.3333333,13.1059604 29.6023729,9.375 25,9.375 C20.3976271,9.375 16.6666667,13.1059604 16.6666667,17.7083333 C16.6666667,22.3107062 23.6114502,33.6893717 25,33.6893717 Z" id="Oval-9" stroke="#2A75ED" stroke-width="1" fill="#E6F0FF" fill-rule="evenodd"></path>
+                            <circle id="Oval" stroke="#2A75ED" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" cx="25" cy="16.6666667" r="3.125"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
